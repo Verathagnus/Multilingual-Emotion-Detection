@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Indic Multilingual Emotion Detection is a machine learning project aimed at identifying emotions in text across multiple Indic languages, starting with Hindi. This repository hosts the trained models and the Streamlit code for easy deployment and usage.
+Indic Multilingual Emotion Detection is a machine learning project aimed at identifying emotions in text across multiple Indic languages, starting with Hindi. This repository hosts the Streamlit code for easy deployment and usage. Download model files at [https://uploadnow.io/f/dc4f6Hb](https://uploadnow.io/f/dc4f6Hb)
 
 ## Project Structure
 
