@@ -6,7 +6,7 @@ Indic Multilingual Emotion Detection is a machine learning project aimed at iden
 
 ## Project Structure
 
-- `models/`: Directory containing trained models for emotion detection.
+- `models/`: Directory containing trained models for emotion detection. Download model files at [https://uploadnow.io/f/dc4f6Hb](https://uploadnow.io/f/dc4f6Hb)
 - `app.py`: Streamlit application code for interacting with the models.
 - `requirements.txt`: List of Python dependencies required to run the Streamlit app.
 
