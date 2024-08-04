@@ -81,8 +81,8 @@ To set up the project locally, follow these steps:
    ```sh
    pip install -r requirements.txt
    ```
-
-4. **Run the Streamlit application:**
+4. **Download model files at [https://uploadnow.io/f/dc4f6Hb](https://uploadnow.io/f/dc4f6Hb) and place them in a folder named models inside the project directory.**
+5. **Run the Streamlit application:**
    ```sh
    streamlit run streamlit_app.py
    ```
