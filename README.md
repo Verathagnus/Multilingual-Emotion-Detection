@@ -1,7 +1,3 @@
-Here's the updated README file with the performance table included:
-
----
-
 # Indic Multilingual Emotion Detection
 
 ## Introduction
