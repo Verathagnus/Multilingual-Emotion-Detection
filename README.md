@@ -101,17 +101,16 @@ Once the Streamlit app is running, you can interact with the models through a we
 - **Improve Model Performance**: Experiment with advanced models and techniques to enhance the accuracy and robustness of emotion detection.
 - **User Feedback**: Incorporate user feedback to continuously improve the application and its usability.
 
-## Contributing
+## Contributors
 
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-- This project utilizes embeddings generated using GPT-2 and BERT tokenizers.
-- Special thanks to the contributors and the open-source community for their invaluable resources and support.
-
+- <h2>Bishwaraj Paul</h2>
+  <p><strong>Role: </strong>Intern<br>
+  Email: bishwaraj.paul98@gmail.com<br>
+  </p>
+- <h2>Dr. Sahinur Rahman Laskar</h2>
+  <p><strong>Role:</strong> Mentor<br>
+  Assistant Professor<br>
+  School of Computer Science, UPES, Dehradun, India<br>
+  Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in<br>
+  </p>
 ---
