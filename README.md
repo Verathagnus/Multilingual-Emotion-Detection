@@ -67,8 +67,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/<yourusername>/indic-multilingual-emotion-detection.git
-   cd indic-multilingual-emotion-detection
+   git clone https://github.com/<yourusername>/Multilingual-Emotion-Detection.git
+   cd Multilingual-Emotion-Detection
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
@@ -89,7 +89,7 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-Once the Streamlit app is running, you can interact with the models through a web interface. You can input text in Hindi (or other supported Indic languages) and select the model you wish to use for emotion detection. The app will display the detected emotion along with confidence scores. Using fasttext-langdetect and iso639 packages, the input language is found and then appropriate models list are selected for that language.  
+Once the Streamlit app is running, you can interact with the models through a web interface. You can input text in Hindi (or other supported Indic languages) and select the model you wish to use for emotion detection. The app will display the detected emotion. Using fasttext-langdetect and iso639 packages, the input language is found and then appropriate models list are selected for that language.  
 
 <!-- ## Example
 
