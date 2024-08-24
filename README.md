@@ -105,7 +105,7 @@ Once the Streamlit app is running, you can interact with the models through a we
 
 - <h2>Bishwaraj Paul</h2>
   <p><strong>Role: </strong>Intern<br>
-  Email: bishwaraj.paul98@gmail.com<br>
+  Email: bishwaraj.paul98@gmail.com / bishwaraj.paul@bahash.in<br>
   </p>
 - <h2>Dr. Sahinur Rahman Laskar</h2>
   <p><strong>Role:</strong> Mentor<br>
